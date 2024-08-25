@@ -13,8 +13,8 @@ Currently, Olist's marketing team lacks a customer segmentation strategy, treati
 ***
 
 **The contents of this github repo:**
-1. Jupyter Notebook (xyz.ipynb)
-2. README (README.md)
+1. Jupyter Notebook
+2. README
 
 ***
 
