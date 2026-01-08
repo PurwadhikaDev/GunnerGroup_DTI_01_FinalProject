@@ -19,7 +19,7 @@ Currently, Olist's marketing team lacks a customer segmentation strategy, treati
 ***
 
 **Other relevant links**:
-1. Tableau Story (under construction)
+1. [Tableau Story](https://public.tableau.com/views/OlistStory-EnhancingMarketingROIthroughTargetedRFMSegmentation/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2. [Tableau Dashboard](https://public.tableau.com/views/finpro_17244232194100/About?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    
 ***
